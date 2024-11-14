@@ -1,0 +1,19 @@
+# WeatherApp
+
+WeatherApp is a simple Python program to receive and display weather information of different cities using OpenWeatherMap API.
+
+## Features
+- Display the current temperature of the city
+- Displays humidity and weather conditions
+- Convert temperature to Celsius (if needed)
+- Display the exact time and date
+
+## Installing
+First, make sure Python 3 and pip are installed.
+
+### How to use
+Clone this repository or download the files:
+
+   ```bash
+   git clone https://github.com/mrnikx/SimpleWeatherApp.git
+   cd WeatherApp
